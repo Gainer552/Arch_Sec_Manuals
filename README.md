@@ -1,8 +1,8 @@
-# ArchSecManuals
+**ArchSecManuals**
 
 **Description**
-A comprehensive repository containing configuration files, command lists, and step-by-step guides for setting up and managing Cybersecurity tools, for Arch Linux.
-A repository dedicated to providing configuration files, command references, and step-by-step guides for popular cybersecurity tools. Simplify your security setup with easy-to-follow instructions and tested configurations.
+
+A comprehensive repository containing configuration files, command lists, and step-by-step guides for setting up and managing Cybersecurity tools, for Arch Linux. A repository dedicated to providing configuration files, command references, and step-by-step guides for popular cybersecurity tools. Simplify your security setup with easy-to-follow instructions and tested configurations.
 
 **Tools Included**
 
