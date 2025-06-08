@@ -57,3 +57,5 @@ By using the tools, configurations, or commands included in this repository, you
 5. This repository is provided "as is," without any warranties of any kind, express or implied, including but not limited to fitness for a particular purpose or non-infringement.
 
 If you are unsure about implementing any of the configurations or commands provided here, consult with a qualified cybersecurity professional before proceeding.
+
+**Disclaimer:** This project is not affiliated with or endorsed by Arch Linux or the Arch Linux Project. “Arch Linux” is a registered trademark of Judd Vinet and the Arch Linux Project. This is an unofficial user-maintained toolkit built for the Arch community.
